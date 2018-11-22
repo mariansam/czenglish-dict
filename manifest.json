@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Czenglish dict",
+    "version": "1.0.0",
+
+    "applications": {
+        "gecko": {
+            "id": "ja@example.cz"
+	}
+    },
+
+    "description": "Czenglish dictionary",
+
+    "dictionaries": {
+        "ja": "dictionaries/ja.dic"
+    }
+}
