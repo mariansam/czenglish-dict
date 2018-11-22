@@ -6,6 +6,7 @@ A Dictionary combining English and Czech. Useful when you use both languages and
 - Go to `about:addons` in Firefox
 - Select Install Add-on From File...
 - Select the `ja@example.cz.xpi` file
+- Maybe you will need to restart Firefox
 
 This should work with MySpell too. Just copy `dictionaries/ja.dic` and `dictionaries/ja.aff` to `/usr/share/myspell`.
 
